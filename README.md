@@ -40,7 +40,7 @@ Your goal?
 
 ---
 
-## 🧠 Summary
+## Summary
 
 A misconfigured FTP server and a lazy reset tool set the stage for your exploitation path.
 
@@ -145,7 +145,6 @@ Expect a mix of:
     
     ```bash
     echo 'bash -p' > /usr/bin/reset_site.sh
-    chmod +x /usr/bin/reset_site.sh
     
     ```
     
@@ -156,7 +155,7 @@ Expect a mix of:
     
     ```
     
-- BOOM → Root shell 🎯
+- BOOM → Root shell 
 
 ---
 
