@@ -13,7 +13,7 @@ What starts with anonymous FTP access slowly unravels into a multi-step chain of
 
 ---
 
-## 🔎 Box Information
+## Box Information
 
 ```
 Name: LaZzyCorp: Lazy Reset
@@ -25,7 +25,7 @@ IP: [Dynamic/Static – e.g., 192.168.1.150]
 
 ---
 
-## 📖 Story
+## Story
 
 DevCorp is a startup working on a blog platform. Their junior dev, Arvind, has been testing things on a local server — but in classic lazy fashion, he’s left behind:
 
